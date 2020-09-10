@@ -1,6 +1,8 @@
 html{
-   scroll-behavior: smooth;}body {
-background:
+   scroll-behavior: smooth;
+}
+body {
+background-color: cyan;
 background-size: cover;
    padding: 0px;
    margin:0px;
@@ -16,7 +18,7 @@ background-size: cover;
   background-repeat: no-repeat;
   background-size: cover;
 }
- .experiences{
+.experiences{
      padding: :20px;
      margin:20px;
      background-color:rgb(0,0,0,0);
@@ -30,7 +32,7 @@ background-size: cover;
   min-height: 200px;
   text-align: center;
   color:black;
-  background-color:blue;
+  background-color:cyan;
   padding-top: 100px;
   background:url()
   background-size: cover;}
@@ -38,9 +40,10 @@ background-size: cover;
   font-family:'',sans-serif;
   min-height: 490px;
   text-align: center;
+  padding-left: 100px;
+  margin-left:50px; 
   color:white;
   padding-top: 200px;
-  background-color: skyblue
   background-repeat: no-repeat;
   background-size: cover;
   font-size: 15px;}.hero{
@@ -50,9 +53,9 @@ background-size: cover;
   color:black;
   padding-top: 200px;
   background: url(https://www.canva.com/wp-content/uploads/sites/8/2019/04/silver.png);
-  /*background-color:cyan ;*/
-  background-repeat: no-repeat;
-  background-size: cover;}
+  background-color:cyan ;
+  background-size: cover;
+}
 .great{
 font-family:'',sans-serif;
   min-height: 490px;
@@ -188,7 +191,6 @@ color:white;}.footer {
     margin: 0 auto;
 }
 .button-1:hover {
-    background-color: #02B8DD
-;
+    background-color: #02B8DD;
     color: darkblue;
 }
